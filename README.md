@@ -1,4 +1,4 @@
-# 2a_Stop_and_Wait_Protocol
+# Ex No: 2a_Stop_and_Wait_Protocol
 ## Name: KISHOREKUMAR S
 ## Reg.No: 212224040162
 ## AIM
